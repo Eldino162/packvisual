@@ -1,8 +1,9 @@
 # packvisual
 
-C:\Users\Kajen\AppData\Local\FiveM\FiveM.app\citizen
 
-Dra och dropa in den Appdata Mappen här 
+
+Dra och dropa in den .rar filen här 
+Unpacka .rar Filen och Dra över allt hit 
 
 C:\Users\Dindator..\AppData\Local\FiveM\FiveM.app\citizen
 
